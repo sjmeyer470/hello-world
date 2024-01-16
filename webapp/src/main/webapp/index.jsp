@@ -19,6 +19,10 @@
     <label for="dogName"><b>Enter Dog Name</b></label>
     <input type="text" placeholder="Enter Dog Name" name="dogName" id="dogName" required>
     <br>
+    
+    <label for="dogWeight"><b>Enter Dog Weight</b></label>
+    <input type="text" placeholder="Enter Dog Weight" name="dogWeight" id="dogWeight" required>
+    <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
