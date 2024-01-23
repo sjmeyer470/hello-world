@@ -24,7 +24,7 @@
     <input type="text" placeholder="Enter Dog Weight" name="dogWeight" id="dogWeight" required>
     <br>
     
-      <label for="tailLength"><b>Enter Tail Length</b></label>
+    <label for="tailLength"><b>Enter Tail Length</b></label>
     <input type="text" placeholder="Enter Tail Length" name="tailLength" id="tailLength" required>
     <br>
 
