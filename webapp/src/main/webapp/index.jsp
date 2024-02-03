@@ -10,9 +10,7 @@
     
     
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
-    <br>
+   
     
     <label for="dogName"><b>Enter Dog Name</b></label>
     <input type="text" placeholder="Enter Dog Name" name="dogName" id="dogName" required>
